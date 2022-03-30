@@ -1,2 +1,2 @@
-# project-calc
-Projek mandiri FGA-FED Kelas A
+# Projek Mandiri JS
+Projek mandiri JS untuk FGA-FED Kelas A
