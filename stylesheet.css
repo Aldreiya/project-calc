@@ -84,7 +84,7 @@ button:hover{
     background-color: rgb(255, 80, 0);
 }
 
-@media screen and (max-width: 600px){
+@media all and (max-width: 670px){
     .calculator{
         width: 250px;
     }
