@@ -83,3 +83,12 @@ button:hover{
 .equal-sign:hover{
     background-color: rgb(255, 80, 0);
 }
+
+@media screen and (max-width: 600px){
+    .calculator{
+        width: 250px;
+    }
+    button{
+        width: 40px;
+    }
+}
