@@ -102,7 +102,6 @@ decimal.addEventListener('click', (event) =>{
 
 
 const inputPercentage = (operator) =>{
-    calculate();
     currentNumber /= 100; 
 }
 const percentages = document.querySelectorAll(".percentage")
