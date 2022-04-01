@@ -1,5 +1,5 @@
 # Projek Kalkulator JS
-Projek mandiri JS untuk FGA-FED Kelas A
+Projek mandiri JS untuk Pelatihan Fresh Graduate Academy - Front End Developer Kelas A
 
 Program ini bertujuan untuk membuat sebuah kalkulator sederhana berbasis web menggunakan HTML,CSS & JS.
 Cara kerja program ini sama seperti cara kerja program kalkulator sederhana lainnya.
