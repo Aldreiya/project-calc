@@ -67,7 +67,7 @@ button:hover{
     background-color: darkorange;
     color: white;
 }
-zero-btn, .all-clear{
+.zero-btn, .all-clear{
     width: 55%;
 }
 .all-clear{
